@@ -27,5 +27,4 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
   <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
-  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-1A73E8?style=flat-square">
 </p>
